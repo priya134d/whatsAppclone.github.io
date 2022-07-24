@@ -1,0 +1,62 @@
+
+
+.b-container{
+    position: relative;
+   
+}
+.main-container{
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+
+}
+.main-upper{
+    height: 15vh;
+    background-color: rgb(26, 118, 72);
+}
+.main-lower{
+    height: 85vh;
+    background-color: rgb(232, 228, 228);
+}
+.main-container1{
+    position: absolute;
+    top: 20px;
+    right: 0;
+    left: 0;
+}
+.xy{
+    min-height: 40px;
+    background-color: rgb(232, 234, 234);
+}
+.profile{
+    margin-top: 5px;
+    height: 30px;
+    width: 30px;
+}
+
+
+.contact{
+    background-color:#ffff;
+    min-height: 600px;
+}
+.contacts-table-scroll{
+    overflow-y: scroll;
+    height:600px
+    
+}
+.msg-area{
+    background-color:rgb(249, 245, 245);
+    min-height: 600px;
+}
+.Msg-table-scroll{
+    overflow-y:scroll;
+    height:500px
+}
+.massage-box{
+    background-color: #F0F0F0;
+}
+.flt{
+    float: right;
+    margin-right: 4px;
+}
